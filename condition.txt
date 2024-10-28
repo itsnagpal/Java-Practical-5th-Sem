@@ -1,0 +1,6 @@
+1. Check whether the number is divisible by 2 or not. 
+2. Write a program to divide the people into 3 age groups depending upon their age.
+> Belw 12 - child; 12-18 - teenager; 18-above - adult
+3. Print odd if the input vaue is odd else prinr even.
+4. Give three inputs and find the greatest number.
+5. Days / Calculator
